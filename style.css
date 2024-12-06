@@ -1,0 +1,40 @@
+* {
+
+}
+
+/*style for body*/
+body {
+	color: white;
+	font-family: "Rubik", sans-serif;
+  	font-optical-sizing: auto;
+  	font-weight: <weight>;
+  	font-style: normal;
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQih3nYE_J-ZtOpMt8q-Vo8H27trx_yJ3uUrg&s);
+}
+
+/*style for h2*/
+h2 {
+	text-align: center;
+}
+
+/*style for container*/
+.container {
+	background-color: black;
+}
+
+/*style for anchor*/
+a {
+    color: #0582CA;
+}
+
+/*style for footer*/
+footer {
+    text-align: center;
+    background-color: black;
+    padding: 7.5px;
+}
+
+.btn {
+	background-color: #0582CA;
+	color: black;
+}
